@@ -1,0 +1,1 @@
+INSERT INTO ROLE (role_name,role_description) values ("OWNER", "Is the owner of an organisation unit, it can appoint admins and it can change the description of the unit and is allowed to delete it");
